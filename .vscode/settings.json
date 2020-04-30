@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "D:\\Users\\onots\\Anaconda3\\envs\\PyTorch_SKLearn\\python.exe",
+    "python.pythonPath": "D:\\Users\\onots\\Anaconda3\\envs\\pytorch_python_36\\python.exe",
     "csv-to-table.upperCaseHeader": true,
     "python.dataScience.jupyterLaunchRetries": 4,
     "python.dataScience.themeMatplotlibPlots": true
